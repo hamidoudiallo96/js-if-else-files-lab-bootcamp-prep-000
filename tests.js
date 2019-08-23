@@ -14,4 +14,4 @@ var index = require("./index.js")
 //     console.log("Expected: 70, Received: "+index.height)
 // }
 
-console.log(index)
+
